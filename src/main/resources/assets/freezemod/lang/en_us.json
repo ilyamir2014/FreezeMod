@@ -1,0 +1,13 @@
+{
+  "itemGroup.freezemod": "Example Mod Tab",
+  "block.freezemod.example_block": "Example Block",
+  "item.freezemod.example_item": "Example Item",
+
+  "freezemod.configuration.title": "FreezeMod Configs",
+  "freezemod.configuration.section.freezemod.common.toml": "FreezeMod Configs",
+  "freezemod.configuration.section.freezemod.common.toml.title": "FreezeMod Configs",
+  "freezemod.configuration.items": "Item List",
+  "freezemod.configuration.logDirtBlock": "Log Dirt Block",
+  "freezemod.configuration.magicNumberIntroduction": "Magic Number Text",
+  "freezemod.configuration.magicNumber": "Magic Number"
+}
