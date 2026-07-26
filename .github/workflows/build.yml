@@ -43,7 +43,7 @@ jobs:
           body: |
             ## 🎉  Релиз мода FreezeMod
             - Версия: `${{ github.ref_name }}`
-            - Совместимость: NeoForge 1.21.1
+            - Совместимость: NeoForge 1.21.1- 1.21.11
             - Автоматическая сборка через GitHub Actions.
           draft: false
           prerelease: false
