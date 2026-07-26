@@ -23,3 +23,7 @@ Additional Resources:
 ==========
 Community Documentation: https://docs.neoforged.net/  
 NeoForged Discord: https://discord.neoforged.net/
+
+Релизы:
+=========
+Все релизы проекта доступны по ссылке: https://github.com/ilyamir2014/FreezeMod/releases
